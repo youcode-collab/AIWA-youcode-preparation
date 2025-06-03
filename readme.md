@@ -21,3 +21,6 @@ For more details, visit the [official Jupyter documentation](https://jupyter.org
 
 ## chapter 1:
  in this chapter we will see how jupyter notebooks works and how to deal with them locally or with using google colab [link](chapter_1.ipynb)
+
+## chapter 2:
+in this chapter we will see how to deal with openai and ollama(local dev) [link](chapter_2.ipynb)
